@@ -27,5 +27,4 @@ for num in numlist:
     sum=sum+num
 print(sum)
 
-#this is a second commit 
-print('this is a second commit point')
+
