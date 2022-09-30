@@ -6,3 +6,5 @@ numlist=list()
 for line in handle:
     line=line.rstrip()    
     print(line)
+
+print('xyz'.upper())
